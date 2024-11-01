@@ -1,7 +1,7 @@
 Brad Traversy
 # Next.js Dev to Deployment
 
-## 01 Introduction>
+## 01 Introduction
 1. Welcome To The Course <https://youtu.be/fou_3QnABOA>
 2. What Is Next.js <https://youtu.be/3q5uJewruXg>
 3. Main Project Overview <https://youtu.be/2094oYsaWis>
